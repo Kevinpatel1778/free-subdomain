@@ -1,0 +1,10 @@
+email = kevinpatel00792@gmail.com 
+
+A = IP
+AAAA = IP
+SRV = PRIORITY WEIGHT PORT TARGET
+TXT = CONTENT
+MX = MAIL_SERVER  PRIORITY
+CNAME = TARGET
+
+i agree to tos
